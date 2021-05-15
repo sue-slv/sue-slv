@@ -1,4 +1,4 @@
-:) Here is Suelen, based in Berlin
+:) Here is Suelen
 I’m interested in Data Analysis and Politics
 Currently I'm learning Data Analysis - Python and SQL (at Redi School, Coursera and Udacity)
 How to reach me: silva.s@posteo.net
