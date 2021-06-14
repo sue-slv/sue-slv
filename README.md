@@ -1,5 +1,5 @@
-Hello! Here is Suelen Silva, and I’m interested in Politics, Cultures and Data  
-Currently I'm learning Python and SQL to Data Analysis  
+Hello! Here is Suelen Silva, and I’m interested in Social Sciences and Data  
+Currently I'm learning Python and SQL 
 In case you want to drop me a line: silva.s@posteo.net  :)  
 
 <!---
