@@ -1,5 +1,5 @@
-Hello! Here is Suelen Silva, and I’m interested in Politics, Social Justice, Cultures and Data.   
-Currently I'm learning Python and SQL to Data Analysis (at Redi School, Coursera and Udacity).  
+Hello! Here is Suelen Silva, and I’m interested in Politics, Cultures and Data  
+Currently I'm learning Python and SQL to Data Analysis  
 In case you want to drop me a line: silva.s@posteo.net  :)  
 
 <!---
